@@ -1,0 +1,17 @@
+# ninja log v5
+179	1996	7381387717636908	CMakeFiles/Src-V2.dir/settingswindow.cpp.obj	ac4c690d7a9e1e92
+10	170	7381387699429080	Src-V2_autogen/timestamp	25caba0808db115b
+10	170	7381387699429080	Src-V2_autogen/mocs_compilation.cpp	25caba0808db115b
+10	170	7381387699429080	C:/Users/43763/OneDrive/Desktop/Sky-Editor/Src-V2/Src-V2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Src-V2_autogen/timestamp	25caba0808db115b
+10	170	7381387699429080	C:/Users/43763/OneDrive/Desktop/Sky-Editor/Src-V2/Src-V2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Src-V2_autogen/mocs_compilation.cpp	25caba0808db115b
+1743	7068	7381385107890505	CMakeFiles/Src-V2.dir/Src-V2_autogen/mocs_compilation.cpp.obj	246607f9bb579c84
+2344	2525	7381387722894547	Src-V2.exe	584116d5e9724c0c
+1735	6787	7381385105134187	CMakeFiles/Src-V2.dir/main.cpp.obj	b263eaa70038422b
+183	2344	7381387721104198	CMakeFiles/Src-V2.dir/mainwindow.cpp.obj	96f5c397b2cf1f10
+31	345	7381388804822944	Src-V2_autogen/timestamp	25caba0808db115b
+31	345	7381388804822944	Src-V2_autogen/mocs_compilation.cpp	25caba0808db115b
+31	345	7381388804822944	C:/Users/43763/OneDrive/Desktop/Sky-Editor/Src-V2/Src-V2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Src-V2_autogen/timestamp	25caba0808db115b
+31	345	7381388804822944	C:/Users/43763/OneDrive/Desktop/Sky-Editor/Src-V2/Src-V2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Src-V2_autogen/mocs_compilation.cpp	25caba0808db115b
+377	3519	7381388836595683	CMakeFiles/Src-V2.dir/settingswindow.cpp.obj	ac4c690d7a9e1e92
+369	3904	7381388840479426	CMakeFiles/Src-V2.dir/mainwindow.cpp.obj	96f5c397b2cf1f10
+3904	4096	7381388842353472	Src-V2.exe	584116d5e9724c0c
